@@ -1,10 +1,10 @@
 {
-  "homepage": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader",
   "versions": {
-    "forge-1.20.1":    { "latest": "0.1.1", "url": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases", "changelog": "" },
-    "neoforge-1.21.1": { "latest": "0.1.0", "url": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases", "changelog": "" },
-    "fabric-1.21.1":   { "latest": "0.1.0", "url": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases", "changelog": "" },
-    "neoforge-26.1.2": { "latest": "0.1.0", "url": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases", "changelog": "" },
-    "fabric-26.1.2":   { "latest": "0.1.0", "url": "https://github.com/VellEagle/VPBMeshLoader-Update-Checker/releases", "changelog": "" }
+    "forge-1.20.1":    { "latest": "0.1.1", "url": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader", "changelog": "" },
+    "neoforge-1.21.1": { "latest": "0.1.0", "url": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader", "changelog": "" },
+    "fabric-1.21.1":   { "latest": "0.1.0", "url": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader", "changelog": "" },
+    "neoforge-26.1.2": { "latest": "0.1.0", "url": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader", "changelog": "" },
+    "fabric-26.1.2":   { "latest": "0.1.0", "url": "https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader", "changelog": "" }
   }
 }

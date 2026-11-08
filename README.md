@@ -19,7 +19,7 @@ VPB Mesh Loader は起動時に上の URL を 1 回だけ読み、自分の環�
 タイトル画面で「ダウンロードページを開きますか？」と表示します（ダウンロードや入れ替えはしません）。
 
 ## 新しい版を出したとき
-1. jar を公開する（このリポジトリの Releases、または CurseForge 等）
+1. jar を CurseForge（https://www.curseforge.com/minecraft/mc-mods/vpb-mesh-loader ）に公開する
 2. `update.json` の該当する環境の `latest` を新しい版番号に、`url` をそのダウンロードページに書き換える
 3. `changelog` に短い説明（英語推奨・1〜2行）を書くと、通知画面に表示される
 
